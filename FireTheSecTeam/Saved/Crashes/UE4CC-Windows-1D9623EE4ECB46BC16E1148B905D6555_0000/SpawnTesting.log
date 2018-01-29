@@ -1,0 +1,1110 @@
+﻿Log file open, 01/15/18 18:05:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SpawnTesting
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1083887537) SRandInit(1083887537).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.131792
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.15-18.05.28:182][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.15-18.05.28:182][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.15-18.05.28:200][  0]LogInit: Computer: DESKTOP-DJQRKMP
+[2018.01.15-18.05.28:200][  0]LogInit: User: Carolina
+[2018.01.15-18.05.28:200][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.15-18.05.28:200][  0]LogInit: High frequency timer resolution =2.340366 MHz
+[2018.01.15-18.05.28:201][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.15-18.05.28:201][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.15-18.05.28:201][  0]LogMemory: Process Physical Memory: 271.38 MB used, 271.38 MB peak
+[2018.01.15-18.05.28:201][  0]LogMemory: Process Virtual Memory: 269.63 MB used, 269.63 MB peak
+[2018.01.15-18.05.28:201][  0]LogMemory: Physical Memory: 4252.07 MB used,  3842.29 MB free, 8094.36 MB total
+[2018.01.15-18.05.28:201][  0]LogMemory: Virtual Memory: 673.89 MB used,  3842.29 MB free, 134217728.00 MB total
+[2018.01.15-18.05.28:436][  0]LogInit: Using OS detected language (pt-PT).
+[2018.01.15-18.05.28:436][  0]LogInit: Using OS detected locale (pt-PT).
+[2018.01.15-18.05.28:441][  0]LogTextLocalizationManager: No localization for 'pt-PT' exists, so 'en' will be used for the language.
+[2018.01.15-18.05.28:441][  0]LogTextLocalizationManager: No localization for 'pt-PT' exists, so 'en' will be used for the locale.
+[2018.01.15-18.05.29:030][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.15-18.05.29:436][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.15-18.05.29:473][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 920M' (Feature Level 11_0)
+[2018.01.15-18.05.29:473][  0]LogD3D11RHI:       2020/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.15-18.05.29:480][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2018.01.15-18.05.29:480][  0]LogD3D11RHI:       128/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.15-18.05.29:483][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.15-18.05.29:483][  0]LogD3D11RHI:       0/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.15-18.05.29:483][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.15-18.05.29:490][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.15-18.05.29:490][  0]LogD3D11RHI:     GPU DeviceId: 0x1299 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.15-18.05.29:490][  0]LogWindows: EnumDisplayDevices:
+[2018.01.15-18.05.29:490][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2018.01.15-18.05.29:490][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.01.15-18.05.29:491][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.01.15-18.05.29:491][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.15-18.05.29:491][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 920M
+[2018.01.15-18.05.29:491][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.15-18.05.29:491][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.15-18.05.29:491][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2018.01.15-18.05.29:509][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.15-18.05.29:531][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.15-18.05.29:531][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Intermediate/Shaders/WorkingDirectory/10964/).
+[2018.01.15-18.05.29:532][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Carolina/AppData/Local/Temp/UnrealShaderWorkingDir/9FDFAA28488B920DB00080998C4DCAA2/'.
+[2018.01.15-18.05.29:532][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.15-18.05.30:829][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.15-18.05.30:899][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.15-18.05.30:982][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.15-18.05.31:081][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.15-18.05.31:179][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.15-18.05.31:265][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.15-18.05.31:365][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.15-18.05.31:435][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.15-18.05.31:499][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.15-18.05.31:570][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.15-18.05.31:638][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.15-18.05.31:706][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.15-18.05.31:773][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.15-18.05.31:841][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.15-18.05.31:977][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.15-18.05.31:977][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.15-18.05.32:047][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.15-18.05.32:102][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.15-18.05.32:213][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.15-18.05.32:248][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.15-18.05.32:324][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.15-18.05.32:392][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.15-18.05.32:460][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.15-18.05.32:532][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.15-18.05.32:532][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.15-18.05.33:161][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.15-18.05.33:383][  0]LogDerivedDataCache: Loaded boot cache 0.22s 78MB C:/Users/Carolina/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.15-18.05.33:383][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Carolina/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.15-18.05.33:383][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.15-18.05.33:383][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.15-18.05.33:384][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.15-18.05.33:384][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.15-18.05.33:404][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.15-18.05.33:417][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Carolina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.15-18.05.33:430][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.15-18.05.33:430][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.15-18.05.33:461][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.15-18.05.33:461][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.15-18.05.35:009][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.15-18.05.35:472][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.15-18.05.35:528][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.15-18.05.35:528][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.15-18.05.35:528][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.15-18.05.35:528][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.15-18.05.35:528][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.15-18.05.35:567][  0]LogNetVersion: SpawnTesting , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1865601912)
+[2018.01.15-18.05.35:803][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2018.01.15-18.05.36:469][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.046635 seconds
+[2018.01.15-18.05.36:476][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.15-18.05.36:476][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.15-18.05.36:476][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.15-18.05.36:542][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.15-18.06.03:199][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.15-18.06.03:251][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.15-18.06.05:043][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.15-18.06.05:652][  0]SourceControl: Source control is disabled
+[2018.01.15-18.06.05:653][  0]SourceControl: Source control is disabled
+[2018.01.15-18.06.05:732][  0]SourceControl: Source control is disabled
+[2018.01.15-18.06.05:808][  0]SourceControl: Source control is disabled
+[2018.01.15-18.06.07:276][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.15-18.06.07:656][  0]LogOcInput: OculusInput pre-init called
+[2018.01.15-18.06.08:040][  0]LogEngine: Initializing Engine...
+[2018.01.15-18.06.08:042][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.15-18.06.08:338][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.15-18.06.08:338][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.15-18.06.08:517][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.15-18.06.08:525][  0]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.06.08:554][  0]LogInit: FAudioDevice initialized.
+[2018.01.15-18.06.08:703][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/Carolina/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.15-18.06.08:723][  0]LogInit: Texture streaming: Enabled
+[2018.01.15-18.06.08:852][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.15-18.06.09:028][  0]LogInit: Transaction tracking system initialized
+[2018.01.15-18.06.09:451][  0]BlueprintLog: New page: Editor Load
+[2018.01.15-18.06.10:715][  0]LocalizationService: Localization service is disabled
+[2018.01.15-18.06.11:714][  0]LogConsoleResponse: Display: 
+[2018.01.15-18.06.11:965][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.15-18.06.11:966][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.15-18.06.11:966][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.15-18.06.12:921][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/' took 0.01s
+[2018.01.15-18.06.13:647][  0]SourceControl: Source control is disabled
+[2018.01.15-18.06.13:647][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Levels/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.15-18.06.13:714][  0]LightingResults: New page: Lighting Build
+[2018.01.15-18.06.13:819][  0]MapCheck: New page: Map Check
+[2018.01.15-18.06.13:819][  0]LightingResults: New page: Lighting Build
+[2018.01.15-18.06.14:111][  0]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.06.14:129][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.15-18.06.14:145][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.15-18.06.14:218][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.612ms to complete.
+[2018.01.15-18.06.14:218][  0]LogFileHelpers: Loading map 'Test' took 0.571
+[2018.01.15-18.06.14:501][  0]LogCollectionManager: Loaded 0 collections in 0.002369 seconds
+[2018.01.15-18.06.14:602][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/Collections/' took 0.01s
+[2018.01.15-18.06.14:602][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Developers/Carolina/Collections/' took 0.01s
+[2018.01.15-18.06.14:602][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Collections/' took 0.01s
+[2018.01.15-18.06.14:602][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.15-18.06.14:611][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2363 classes and 519 folders.
+[2018.01.15-18.06.14:697][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.15-18.06.15:642][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.01.15-18.06.15:754][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.15-18.06.15:854][  0]LogSlate: Took 0.031726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.15-18.06.15:857][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.15-18.06.15:879][  0]LogSlate: Took 0.017662 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.15-18.06.16:069][  0]LogRenderer: Reallocating scene render targets to support 780x388 Format 10 NumSamples 1 (Frame:1).
+[2018.01.15-18.06.16:287][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.15-18.06.16:287][  0]LogLoad: (Engine Initialization) Total time: 51.66 seconds
+[2018.01.15-18.06.16:287][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.15-18.06.16:287][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.15-18.06.16:287][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.15-18.06.16:650][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.15-18.06.16:713][  0]LogSlate: Took 0.000386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.15-18.06.17:654][  3]LogSlate: Took 0.001074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.15-18.06.18:303][  5]LogAssetRegistry: Asset discovery search completed in 42.5216 seconds
+[2018.01.15-18.06.18:310][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.15-18.06.18:310][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000193 seconds (updated 0 objects)
+[2018.01.15-18.06.30:981][484]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.15-18.06.31:498][484]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.01.15-18.06.33:423][484]LogSlate: Took 0.019444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.15-18.09.19:540][983]LogConsoleManager: Warning: Performance warning: Console object named 'r.DebugSafeZone.Mode' shows many (500) FindConsoleObject() calls (consider caching e.g. using static)
+[2018.01.15-18.09.48:010][ 73]LogSlate: Took 0.018703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.15-18.15.55:550][306]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.15.56:573][348]LogSavePackage: Save=31.29ms
+[2018.01.15-18.15.56:573][348]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerControllerEFAC008647E86ECC2591298504BDE91B.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.15.56:580][348]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.15.57:507][403]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.15.57:582][403]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.15.57:582][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.15.57:582][403]PIE: New page: PIE session: Test (Jan 15, 2018, 6:15:57 PM)
+[2018.01.15-18.15.57:583][403]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.15.57:585][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002279s)
+[2018.01.15-18.15.57:586][403]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.15.57:586][403]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2018.01.15-18.15.57:586][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.003596s)
+[2018.01.15-18.15.57:612][403]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.15.57:628][403]LogInit: FAudioDevice initialized.
+[2018.01.15-18.15.57:680][403]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.15.57:682][403]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.15.57
+[2018.01.15-18.15.57:682][403]LogWorld: Bringing up level for play took: 0.001758
+[2018.01.15-18.15.57:682][403]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.15.57:746][403]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.01.15-18.15.57:749][403]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.187
+[2018.01.15-18.15.57:750][403]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.15.57:766][403]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.01.15-18.16.05:725][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.16.05:790][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.16.45:683][ 88]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.16.46:510][121]LogSavePackage: Save=27.95ms
+[2018.01.15-18.16.46:510][121]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerController0EC7360C4D14C319AED0B5944B211FD3.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.16.46:516][121]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.16.47:773][196]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.16.47:793][196]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.16.47:793][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.16.47:793][196]PIE: New page: PIE session: Test (Jan 15, 2018, 6:16:47 PM)
+[2018.01.15-18.16.47:793][196]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.16.47:797][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003406s)
+[2018.01.15-18.16.47:798][196]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.16.47:798][196]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2018.01.15-18.16.47:798][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.004868s)
+[2018.01.15-18.16.47:826][196]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.16.47:840][196]LogInit: FAudioDevice initialized.
+[2018.01.15-18.16.47:881][196]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.16.47:883][196]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.16.47
+[2018.01.15-18.16.47:884][196]LogWorld: Bringing up level for play took: 0.002087
+[2018.01.15-18.16.47:885][196]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.16.47:888][196]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.048
+[2018.01.15-18.16.47:889][196]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.16.55:171][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.16.55:234][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.17.13:434][578]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.17.13:455][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.17.13:455][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.17.13:456][578]PIE: New page: PIE session: Test (Jan 15, 2018, 6:17:13 PM)
+[2018.01.15-18.17.13:456][578]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.17.13:458][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002794s)
+[2018.01.15-18.17.13:459][578]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.17.13:459][578]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2018.01.15-18.17.13:460][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.004178s)
+[2018.01.15-18.17.13:493][578]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.17.13:507][578]LogInit: FAudioDevice initialized.
+[2018.01.15-18.17.13:547][578]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.17.13:550][578]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.17.13
+[2018.01.15-18.17.13:550][578]LogWorld: Bringing up level for play took: 0.002799
+[2018.01.15-18.17.13:551][578]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.17.13:554][578]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.383
+[2018.01.15-18.17.13:554][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.17.16:893][712]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.17.16:963][712]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.17.27:680][353]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.17.28:313][374]LogSavePackage: Save=27.78ms
+[2018.01.15-18.17.28:313][374]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerController486979D64B06FA19B6755595CB209AC7.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.17.28:319][374]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.17.28:992][414]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.17.29:016][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.17.29:017][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.17.29:017][414]PIE: New page: PIE session: Test (Jan 15, 2018, 6:17:29 PM)
+[2018.01.15-18.17.29:017][414]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.17.29:019][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002303s)
+[2018.01.15-18.17.29:020][414]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.17.29:020][414]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2018.01.15-18.17.29:020][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.003640s)
+[2018.01.15-18.17.29:051][414]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.17.29:065][414]LogInit: FAudioDevice initialized.
+[2018.01.15-18.17.29:104][414]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.17.29:106][414]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.17.29
+[2018.01.15-18.17.29:107][414]LogWorld: Bringing up level for play took: 0.001781
+[2018.01.15-18.17.29:107][414]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.17.29:111][414]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.826
+[2018.01.15-18.17.29:111][414]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.17.31:983][530]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.17.32:048][530]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.18.40:072][424]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.18.40:817][451]LogSavePackage: Save=27.59ms
+[2018.01.15-18.18.40:817][451]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerControllerCC0F595047729E694D7A1299E7FDE2C5.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.18.40:824][451]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.18.57:591][449]BlueprintLog: New page: Compile VirusSpawnBP
+[2018.01.15-18.18.58:669][473]LogSavePackage: Save=49.17ms
+[2018.01.15-18.18.58:669][473]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/VirusSpawnBPF65F2DCD460A35A96FA0F882F324612D.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset'
+[2018.01.15-18.18.58:675][473]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset
+[2018.01.15-18.18.59:255][508]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.18.59:283][508]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.18.59:283][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.18.59:283][508]PIE: New page: PIE session: Test (Jan 15, 2018, 6:18:59 PM)
+[2018.01.15-18.18.59:284][508]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.18.59:287][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002985s)
+[2018.01.15-18.18.59:287][508]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.18.59:288][508]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2018.01.15-18.18.59:288][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.004554s)
+[2018.01.15-18.18.59:316][508]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.18.59:331][508]LogInit: FAudioDevice initialized.
+[2018.01.15-18.18.59:370][508]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.18.59:372][508]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.18.59
+[2018.01.15-18.18.59:372][508]LogWorld: Bringing up level for play took: 0.001894
+[2018.01.15-18.18.59:373][508]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.18.59:376][508]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.561
+[2018.01.15-18.18.59:376][508]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.19.04:263][704]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.19.04:329][704]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.19.08:732][965]BlueprintLog: New page: Compile VirusSpawnBP
+[2018.01.15-18.19.09:288][967]LogSavePackage: Save=39.02ms
+[2018.01.15-18.19.09:288][967]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/VirusSpawnBP9E4BEB3A4F8E0F83F1571FBFACBC7AD4.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset'
+[2018.01.15-18.19.09:294][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset
+[2018.01.15-18.19.51:096][473]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.19.51:999][510]LogSavePackage: Save=29.17ms
+[2018.01.15-18.19.51:999][510]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerControllerE6C9035843256708071DE0A79030615B.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.19.52:005][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.19.55:262][705]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.19.55:289][705]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.19.55:289][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.19.55:289][705]PIE: New page: PIE session: Test (Jan 15, 2018, 6:19:55 PM)
+[2018.01.15-18.19.55:289][705]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.19.55:293][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003658s)
+[2018.01.15-18.19.55:294][705]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.19.55:294][705]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2018.01.15-18.19.55:294][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.005028s)
+[2018.01.15-18.19.55:321][705]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.19.55:338][705]LogInit: FAudioDevice initialized.
+[2018.01.15-18.19.55:379][705]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.19.55:380][705]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.19.55
+[2018.01.15-18.19.55:381][705]LogWorld: Bringing up level for play took: 0.001685
+[2018.01.15-18.19.55:381][705]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.19.55:385][705]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.552
+[2018.01.15-18.19.55:385][705]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.20.02:186][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.20.02:247][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.20.45:926][595]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.20.46:592][618]LogSavePackage: Save=28.08ms
+[2018.01.15-18.20.46:592][618]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerController94596F9D48F0A77BB48EA1936636571B.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.20.46:598][618]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.20.47:490][671]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.20.47:508][671]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.20.47:508][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.20.47:508][671]PIE: New page: PIE session: Test (Jan 15, 2018, 6:20:47 PM)
+[2018.01.15-18.20.47:508][671]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.20.47:511][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002324s)
+[2018.01.15-18.20.47:511][671]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.20.47:512][671]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2018.01.15-18.20.47:512][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.003440s)
+[2018.01.15-18.20.47:539][671]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.20.47:554][671]LogInit: FAudioDevice initialized.
+[2018.01.15-18.20.47:593][671]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.20.47:595][671]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.20.47
+[2018.01.15-18.20.47:595][671]LogWorld: Bringing up level for play took: 0.001510
+[2018.01.15-18.20.47:596][671]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.20.47:599][671]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.338
+[2018.01.15-18.20.47:599][671]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.20.51:719][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.20.51:783][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.21.01:570][419]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.21.02:298][446]LogSavePackage: Save=28.86ms
+[2018.01.15-18.21.02:298][446]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerController8EB64CFE41ECF130864AA7A4DE0DB23F.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.21.02:305][446]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.21.03:046][490]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.21.03:065][490]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.21.03:065][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.21.03:065][490]PIE: New page: PIE session: Test (Jan 15, 2018, 6:21:03 PM)
+[2018.01.15-18.21.03:065][490]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.21.03:067][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002183s)
+[2018.01.15-18.21.03:068][490]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.21.03:068][490]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2018.01.15-18.21.03:068][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.003313s)
+[2018.01.15-18.21.03:096][490]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.21.03:110][490]LogInit: FAudioDevice initialized.
+[2018.01.15-18.21.03:147][490]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.21.03:149][490]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.21.03
+[2018.01.15-18.21.03:149][490]LogWorld: Bringing up level for play took: 0.001674
+[2018.01.15-18.21.03:150][490]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.21.03:152][490]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.784
+[2018.01.15-18.21.03:153][490]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.21.06:938][642]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.21.07:000][642]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.21.07:817][689]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.21.07:836][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.21.07:836][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.21.07:836][689]PIE: New page: PIE session: Test (Jan 15, 2018, 6:21:07 PM)
+[2018.01.15-18.21.07:836][689]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.21.07:838][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002296s)
+[2018.01.15-18.21.07:839][689]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.21.07:839][689]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2018.01.15-18.21.07:840][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.003554s)
+[2018.01.15-18.21.07:869][689]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.21.07:883][689]LogInit: FAudioDevice initialized.
+[2018.01.15-18.21.07:920][689]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.21.07:922][689]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.21.07
+[2018.01.15-18.21.07:922][689]LogWorld: Bringing up level for play took: 0.001512
+[2018.01.15-18.21.07:923][689]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.21.07:925][689]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.011
+[2018.01.15-18.21.07:926][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.21.11:983][852]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.21.12:049][852]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.23.02:922][494]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.23.04:183][552]LogSavePackage: Save=31.63ms
+[2018.01.15-18.23.04:183][552]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerController9D7EA42743B75F768443A0970C3536AC.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.23.04:189][552]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.23.05:499][630]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.23.05:520][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.23.05:521][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.23.05:521][630]PIE: New page: PIE session: Test (Jan 15, 2018, 6:23:05 PM)
+[2018.01.15-18.23.05:521][630]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.23.05:525][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003708s)
+[2018.01.15-18.23.05:526][630]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.23.05:526][630]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2018.01.15-18.23.05:527][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.005249s)
+[2018.01.15-18.23.05:560][630]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.23.05:577][630]LogInit: FAudioDevice initialized.
+[2018.01.15-18.23.05:617][630]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.23.05:619][630]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.23.05
+[2018.01.15-18.23.05:619][630]LogWorld: Bringing up level for play took: 0.001814
+[2018.01.15-18.23.05:619][630]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.23.05:622][630]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.314
+[2018.01.15-18.23.05:623][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.23.12:580][908]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.23.12:640][908]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.23.42:300][628]LogSlate: Took 0.077152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.01.15-18.25.24:208][698]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.25.25:380][751]LogSavePackage: Save=32.32ms
+[2018.01.15-18.25.25:380][751]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerControllerB1F83357430760FAD13004A1A7A6E90F.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.25.25:395][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.25.40:423][634]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.25.41:134][660]LogSavePackage: Save=31.00ms
+[2018.01.15-18.25.41:134][660]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerController22C0DCC2416025B14DBFC7BB21834DAE.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.25.41:140][660]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.25.42:536][743]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.25.42:562][743]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.25.42:563][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.25.42:563][743]PIE: New page: PIE session: Test (Jan 15, 2018, 6:25:42 PM)
+[2018.01.15-18.25.42:563][743]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.25.42:566][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002950s)
+[2018.01.15-18.25.42:567][743]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.25.42:567][743]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2018.01.15-18.25.42:567][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.004174s)
+[2018.01.15-18.25.42:600][743]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.25.42:616][743]LogInit: FAudioDevice initialized.
+[2018.01.15-18.25.42:655][743]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.25.42:657][743]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.25.42
+[2018.01.15-18.25.42:657][743]LogWorld: Bringing up level for play took: 0.001711
+[2018.01.15-18.25.42:657][743]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.25.42:660][743]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test 0.724
+[2018.01.15-18.25.42:661][743]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.25.43:558][776]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	VirusSpawnBP_C /Game/Assets/Levels/UEDPIE_0_Test.Test:PersistentLevel.VirusSpawnBP_254
+	Function /Game/Assets/Blueprints/VirusSpawnBP.VirusSpawnBP_C:ExecuteUbergraph_VirusSpawnBP:0000
+[2018.01.15-18.25.43:559][776]PIE: Error: Infinite Loop detected in  VirusSpawnBP , asserted during  Remove All Widgets with the following  Call Stack
+[2018.01.15-18.25.43:560][776]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.25.43:613][776]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.25.43:638][776]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_10.None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.01.15-18.26.43:500][362]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.26.44:209][387]LogSavePackage: Save=30.89ms
+[2018.01.15-18.26.44:209][387]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerControllerFA08E7F143C04B7C63EA46BA1B583735.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.26.44:215][387]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.26.44:987][433]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.26.45:006][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.26.45:006][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.26.45:006][433]PIE: New page: PIE session: Test (Jan 15, 2018, 6:26:45 PM)
+[2018.01.15-18.26.45:006][433]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.26.45:009][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002649s)
+[2018.01.15-18.26.45:010][433]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.26.45:010][433]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.01.15-18.26.45:010][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.003856s)
+[2018.01.15-18.26.45:037][433]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.26.45:052][433]LogInit: FAudioDevice initialized.
+[2018.01.15-18.26.45:091][433]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.26.45:093][433]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.26.45
+[2018.01.15-18.26.45:093][433]LogWorld: Bringing up level for play took: 0.001945
+[2018.01.15-18.26.45:094][433]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.26.45:096][433]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.84
+[2018.01.15-18.26.45:097][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.26.50:290][642]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.26.50:357][642]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.27.31:557][111]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.27.32:184][131]LogSavePackage: Save=31.11ms
+[2018.01.15-18.27.32:184][131]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerController591A2C2A44A4248BF81EC2A1FC95C1EB.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.27.32:189][131]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.27.44:004][838]BlueprintLog: New page: Compile VirusSpawnBP
+[2018.01.15-18.27.44:847][856]LogSavePackage: Save=40.82ms
+[2018.01.15-18.27.44:848][856]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/VirusSpawnBPE91A25A1499DA50E27CD23859BE3AE75.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset'
+[2018.01.15-18.27.44:854][856]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset
+[2018.01.15-18.27.45:467][893]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.27.45:498][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.27.45:498][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.27.45:498][893]PIE: New page: PIE session: Test (Jan 15, 2018, 6:27:45 PM)
+[2018.01.15-18.27.45:498][893]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.27.45:502][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003068s)
+[2018.01.15-18.27.45:502][893]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.27.45:503][893]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2018.01.15-18.27.45:503][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.004414s)
+[2018.01.15-18.27.45:531][893]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.27.45:548][893]LogInit: FAudioDevice initialized.
+[2018.01.15-18.27.45:587][893]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.27.45:588][893]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.27.45
+[2018.01.15-18.27.45:588][893]LogWorld: Bringing up level for play took: 0.001443
+[2018.01.15-18.27.45:589][893]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.27.45:591][893]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.345
+[2018.01.15-18.27.45:592][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.27.51:137][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.27.51:202][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.27.58:209][532]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.27.58:228][532]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.27.58:228][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.27.58:229][532]PIE: New page: PIE session: Test (Jan 15, 2018, 6:27:58 PM)
+[2018.01.15-18.27.58:229][532]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.27.58:233][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003888s)
+[2018.01.15-18.27.58:233][532]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.27.58:234][532]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2018.01.15-18.27.58:234][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.005263s)
+[2018.01.15-18.27.58:260][532]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.27.58:274][532]LogInit: FAudioDevice initialized.
+[2018.01.15-18.27.58:314][532]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.27.58:316][532]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.27.58
+[2018.01.15-18.27.58:316][532]LogWorld: Bringing up level for play took: 0.001830
+[2018.01.15-18.27.58:317][532]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.27.58:320][532]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test 0.384
+[2018.01.15-18.27.58:321][532]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.28.03:739][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.28.03:805][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.29.17:832][173]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.29.19:119][235]BlueprintLog: New page: Compile VirusSpawnBP
+[2018.01.15-18.29.19:667][237]LogSavePackage: Save=36.85ms
+[2018.01.15-18.29.19:667][237]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/VirusSpawnBPE01E9AF24AAB08B11D83EEBF91BF3ABE.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset'
+[2018.01.15-18.29.19:675][237]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset
+[2018.01.15-18.29.21:119][319]LogSavePackage: Save=33.35ms
+[2018.01.15-18.29.21:119][319]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerControllerC7D34A114BC6E0E2CFE08DB08A66D291.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.29.21:124][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.29.22:235][386]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.29.22:264][386]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.29.22:264][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.29.22:265][386]PIE: New page: PIE session: Test (Jan 15, 2018, 6:29:22 PM)
+[2018.01.15-18.29.22:265][386]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.29.22:267][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002262s)
+[2018.01.15-18.29.22:268][386]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.29.22:268][386]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2018.01.15-18.29.22:268][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.003413s)
+[2018.01.15-18.29.22:294][386]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.29.22:309][386]LogInit: FAudioDevice initialized.
+[2018.01.15-18.29.22:349][386]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.29.22:351][386]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.29.22
+[2018.01.15-18.29.22:351][386]LogWorld: Bringing up level for play took: 0.001829
+[2018.01.15-18.29.22:352][386]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.29.22:355][386]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test 0.419
+[2018.01.15-18.29.22:355][386]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.29.25:514][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.29.25:573][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.29.31:664][876]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.29.31:682][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.29.31:682][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.29.31:682][876]PIE: New page: PIE session: Test (Jan 15, 2018, 6:29:31 PM)
+[2018.01.15-18.29.31:682][876]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.29.31:685][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002519s)
+[2018.01.15-18.29.31:686][876]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.29.31:686][876]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2018.01.15-18.29.31:686][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.003673s)
+[2018.01.15-18.29.31:716][876]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.29.31:730][876]LogInit: FAudioDevice initialized.
+[2018.01.15-18.29.31:767][876]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.29.31:768][876]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.29.31
+[2018.01.15-18.29.31:769][876]LogWorld: Bringing up level for play took: 0.001645
+[2018.01.15-18.29.31:769][876]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.29.31:772][876]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.164
+[2018.01.15-18.29.31:773][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.29.34:577][990]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.29.34:635][990]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.29.54:152][159]BlueprintLog: New page: Compile VirusSpawnBP
+[2018.01.15-18.29.55:129][187]LogSavePackage: Save=37.68ms
+[2018.01.15-18.29.55:129][187]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/VirusSpawnBP2B3E5A0B43DC382A55279EA89FB91D35.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset'
+[2018.01.15-18.29.55:136][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset
+[2018.01.15-18.29.56:699][276]LogSavePackage: Save=34.61ms
+[2018.01.15-18.29.56:699][276]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerController03EA7D9A4119C7FFC48107BE8A72AD37.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.29.56:710][276]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.30.22:228][404]LogSavePackage: Save=179.74ms
+[2018.01.15-18.30.22:228][404]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/Test_Auto1C43328364C4B8C21510E6EA150C0BC09.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/Autosaves/Game/Assets/Levels/Test_Auto1.umap'
+[2018.01.15-18.30.22:231][404]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/Autosaves/Game/Assets/Levels/Test_Auto1.umap
+[2018.01.15-18.30.22:234][404]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/Test' took 0.246
+[2018.01.15-18.30.22:234][404]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.246
+[2018.01.15-18.31.44:880][462]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.31.45:602][483]LogSavePackage: Save=40.40ms
+[2018.01.15-18.31.45:602][483]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerController7913EB2045A415E9C62FF39502397952.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.31.45:609][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.31.46:288][524]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.31.46:312][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.31.46:312][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.31.46:313][524]PIE: New page: PIE session: Test (Jan 15, 2018, 6:31:46 PM)
+[2018.01.15-18.31.46:313][524]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.31.46:315][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002629s)
+[2018.01.15-18.31.46:316][524]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.31.46:316][524]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2018.01.15-18.31.46:316][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.003779s)
+[2018.01.15-18.31.46:355][524]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.31.46:370][524]LogInit: FAudioDevice initialized.
+[2018.01.15-18.31.46:412][524]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.31.46:414][524]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.31.46
+[2018.01.15-18.31.46:414][524]LogWorld: Bringing up level for play took: 0.001872
+[2018.01.15-18.31.46:415][524]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.31.46:419][524]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test 0.483
+[2018.01.15-18.31.46:420][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.31.51:026][709]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.31.51:064][709]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.32.04:756][527]LogEditorViewport: Clicking on Actor (LMB): VirusSpawnBP_C (VirusSpawnBP)
+[2018.01.15-18.32.06:648][635]Cmd: EDIT COPY
+[2018.01.15-18.32.07:386][661]Cmd: EDIT PASTE
+[2018.01.15-18.32.10:339][822]LogEditorViewport: Clicking on Actor (CTRL LMB): VirusSpawnBP_C (VirusSpawnBP)
+[2018.01.15-18.32.10:692][841]Cmd: EDIT COPY
+[2018.01.15-18.32.11:616][896]Cmd: EDIT PASTE
+[2018.01.15-18.32.21:511][468]LogSavePackage: Save=178.24ms
+[2018.01.15-18.32.21:511][468]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/Test4F63AC1B4ED021A9470CD2BCC16B72E6.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Levels/Test.umap'
+[2018.01.15-18.32.21:517][468]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Levels/Test.umap
+[2018.01.15-18.32.21:613][468]LogSavePackage: Save=52.60ms
+[2018.01.15-18.32.21:613][468]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/Test_BuiltDataC8FB315A4725707373260A81BD0DDFCE.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Levels/Test_BuiltData.uasset'
+[2018.01.15-18.32.21:616][468]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Levels/Test_BuiltData.uasset
+[2018.01.15-18.32.23:205][560]LogSavePackage: Save=33.26ms
+[2018.01.15-18.32.23:205][560]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerControllerB32E738248F7C261E0A0C990AC8C0146.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.32.23:211][560]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.32.24:005][608]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.32.24:022][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.32.24:022][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.32.24:022][608]PIE: New page: PIE session: Test (Jan 15, 2018, 6:32:24 PM)
+[2018.01.15-18.32.24:022][608]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.32.24:025][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002635s)
+[2018.01.15-18.32.24:025][608]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.32.24:026][608]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2018.01.15-18.32.24:026][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.003665s)
+[2018.01.15-18.32.24:055][608]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.32.24:069][608]LogInit: FAudioDevice initialized.
+[2018.01.15-18.32.24:108][608]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.32.24:110][608]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.32.24
+[2018.01.15-18.32.24:111][608]LogWorld: Bringing up level for play took: 0.001863
+[2018.01.15-18.32.24:111][608]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.32.24:116][608]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test 0.18
+[2018.01.15-18.32.24:117][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.32.32:366][936]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.32.32:402][936]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.34.14:177][873]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.34.14:809][893]LogSavePackage: Save=34.73ms
+[2018.01.15-18.34.14:809][893]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerControllerD2A574984691C7A908AEA8A42ACD6210.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.34.14:822][893]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.34.17:179][ 34]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.34.17:198][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.34.17:198][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.34.17:199][ 34]PIE: New page: PIE session: Test (Jan 15, 2018, 6:34:17 PM)
+[2018.01.15-18.34.17:199][ 34]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.34.17:202][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003094s)
+[2018.01.15-18.34.17:203][ 34]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.34.17:203][ 34]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2018.01.15-18.34.17:203][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.004542s)
+[2018.01.15-18.34.17:231][ 34]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.34.17:246][ 34]LogInit: FAudioDevice initialized.
+[2018.01.15-18.34.17:287][ 34]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.34.17:290][ 34]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.34.17
+[2018.01.15-18.34.17:291][ 34]LogWorld: Bringing up level for play took: 0.003264
+[2018.01.15-18.34.17:291][ 34]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.34.17:295][ 34]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.642
+[2018.01.15-18.34.17:295][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.34.27:547][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.34.27:607][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.34.30:273][598]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.34.30:976][623]LogSavePackage: Save=35.70ms
+[2018.01.15-18.34.30:976][623]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerControllerB759DCCF47D4BC17BA546AAE78F3E554.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.34.30:982][623]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.41.30:955][537]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.41.31:599][557]LogSavePackage: Save=35.99ms
+[2018.01.15-18.41.31:599][557]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerController0184BA924698E94C70F69B9AFD4357AC.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.41.31:604][557]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.41.32:615][618]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.41.32:636][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.41.32:636][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.41.32:636][618]PIE: New page: PIE session: Test (Jan 15, 2018, 6:41:32 PM)
+[2018.01.15-18.41.32:636][618]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.41.32:640][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003867s)
+[2018.01.15-18.41.32:641][618]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.41.32:641][618]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2018.01.15-18.41.32:642][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.005375s)
+[2018.01.15-18.41.32:670][618]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.41.32:686][618]LogInit: FAudioDevice initialized.
+[2018.01.15-18.41.32:725][618]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.41.32:727][618]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.41.32
+[2018.01.15-18.41.32:727][618]LogWorld: Bringing up level for play took: 0.001710
+[2018.01.15-18.41.32:728][618]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.41.32:731][618]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test 0.794
+[2018.01.15-18.41.32:731][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.41.40:318][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.41.40:382][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.42.36:756][294]BlueprintLog: New page: Compile VirusSpawnBP
+[2018.01.15-18.42.38:078][323]LogSavePackage: Save=35.08ms
+[2018.01.15-18.42.38:078][323]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/VirusSpawnBP4CA8AF01472940E08D1F559A625B52F0.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset'
+[2018.01.15-18.42.38:084][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset
+[2018.01.15-18.42.39:162][388]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.42.39:190][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.42.39:190][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.42.39:190][388]PIE: New page: PIE session: Test (Jan 15, 2018, 6:42:39 PM)
+[2018.01.15-18.42.39:191][388]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.42.39:195][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004193s)
+[2018.01.15-18.42.39:196][388]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.42.39:196][388]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2018.01.15-18.42.39:196][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.005478s)
+[2018.01.15-18.42.39:225][388]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.42.39:243][388]LogInit: FAudioDevice initialized.
+[2018.01.15-18.42.39:283][388]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.42.39:285][388]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.42.39
+[2018.01.15-18.42.39:286][388]LogWorld: Bringing up level for play took: 0.002600
+[2018.01.15-18.42.39:286][388]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.42.39:288][388]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.649
+[2018.01.15-18.42.39:288][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.42.55:572][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.42.55:646][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.43.00:860][340]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.43.00:880][340]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.43.00:880][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.43.00:880][340]PIE: New page: PIE session: Test (Jan 15, 2018, 6:43:00 PM)
+[2018.01.15-18.43.00:881][340]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.43.00:885][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004186s)
+[2018.01.15-18.43.00:886][340]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.43.00:886][340]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2018.01.15-18.43.00:886][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.005480s)
+[2018.01.15-18.43.00:914][340]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.43.00:929][340]LogInit: FAudioDevice initialized.
+[2018.01.15-18.43.00:970][340]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.43.00:973][340]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.43.00
+[2018.01.15-18.43.00:973][340]LogWorld: Bringing up level for play took: 0.002150
+[2018.01.15-18.43.00:973][340]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.43.00:976][340]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test 1.04
+[2018.01.15-18.43.00:977][340]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.43.10:817][734]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.43.10:883][734]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.43.27:323][715]LogSavePackage: Save=28.24ms
+[2018.01.15-18.43.27:323][715]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/VirusSpawnBPF62F0B0445F6EE275B7A05ADA5DE4284.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset'
+[2018.01.15-18.43.27:329][715]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset
+[2018.01.15-18.43.28:351][773]LogSavePackage: Save=33.23ms
+[2018.01.15-18.43.28:351][773]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerController0AF9C1E54431F8F2B5B86385955FD493.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.43.28:356][773]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.43.29:169][822]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.43.29:190][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.43.29:190][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.43.29:192][822]PIE: New page: PIE session: Test (Jan 15, 2018, 6:43:29 PM)
+[2018.01.15-18.43.29:192][822]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.43.29:198][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005295s)
+[2018.01.15-18.43.29:199][822]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.43.29:199][822]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2018.01.15-18.43.29:199][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.007633s)
+[2018.01.15-18.43.29:228][822]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.43.29:241][822]LogInit: FAudioDevice initialized.
+[2018.01.15-18.43.29:281][822]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.43.29:283][822]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.43.29
+[2018.01.15-18.43.29:283][822]LogWorld: Bringing up level for play took: 0.001946
+[2018.01.15-18.43.29:284][822]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.43.29:286][822]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test -0.65
+[2018.01.15-18.43.29:287][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.43.39:237][217]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.43.39:281][217]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.44.46:658][235]BlueprintLog: New page: Compile VirusSpawnBP
+[2018.01.15-18.44.48:065][270]LogSavePackage: Save=36.52ms
+[2018.01.15-18.44.48:065][270]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/VirusSpawnBPB555AD8D4E54A4C759827687C156CC8A.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset'
+[2018.01.15-18.44.48:070][270]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset
+[2018.01.15-18.44.48:708][308]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.44.48:736][308]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.44.48:736][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.44.48:736][308]PIE: New page: PIE session: Test (Jan 15, 2018, 6:44:48 PM)
+[2018.01.15-18.44.48:736][308]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.44.48:740][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004043s)
+[2018.01.15-18.44.48:741][308]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.44.48:742][308]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2018.01.15-18.44.48:742][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.005646s)
+[2018.01.15-18.44.48:770][308]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.44.48:784][308]LogInit: FAudioDevice initialized.
+[2018.01.15-18.44.48:826][308]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.44.48:828][308]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.44.48
+[2018.01.15-18.44.48:828][308]LogWorld: Bringing up level for play took: 0.001358
+[2018.01.15-18.44.48:829][308]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.44.48:831][308]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test 0.894
+[2018.01.15-18.44.48:831][308]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.44.56:098][596]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.44.56:170][596]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.45.12:167][538]BlueprintLog: New page: Compile VirusSpawnBP
+[2018.01.15-18.45.17:976][844]BlueprintLog: New page: Compile VirusSpawnBP
+[2018.01.15-18.45.19:539][889]LogSavePackage: Save=39.13ms
+[2018.01.15-18.45.19:539][889]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/VirusSpawnBPD40F62E7403B5539CA2B7A9E01FDDEEA.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset'
+[2018.01.15-18.45.19:545][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset
+[2018.01.15-18.45.20:214][929]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.45.20:243][929]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.45.20:243][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.45.20:243][929]PIE: New page: PIE session: Test (Jan 15, 2018, 6:45:20 PM)
+[2018.01.15-18.45.20:243][929]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.45.20:247][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004192s)
+[2018.01.15-18.45.20:248][929]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.45.20:248][929]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2018.01.15-18.45.20:249][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.005532s)
+[2018.01.15-18.45.20:278][929]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.45.20:292][929]LogInit: FAudioDevice initialized.
+[2018.01.15-18.45.20:327][929]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.45.20:328][929]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.45.20
+[2018.01.15-18.45.20:329][929]LogWorld: Bringing up level for play took: 0.001323
+[2018.01.15-18.45.20:329][929]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.45.20:331][929]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test 0.394
+[2018.01.15-18.45.20:331][929]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.45.30:531][336]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.45.30:600][336]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.46.18:127][162]BlueprintLog: New page: Compile VirusSpawnBP
+[2018.01.15-18.46.19:478][193]LogSavePackage: Save=39.35ms
+[2018.01.15-18.46.19:478][193]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/VirusSpawnBPA5A73F634D24AE79D474C3838B5534F5.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset'
+[2018.01.15-18.46.19:485][193]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset
+[2018.01.15-18.46.20:342][244]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.46.20:370][244]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.46.20:370][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.46.20:371][244]PIE: New page: PIE session: Test (Jan 15, 2018, 6:46:20 PM)
+[2018.01.15-18.46.20:371][244]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.46.20:373][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002694s)
+[2018.01.15-18.46.20:374][244]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.46.20:374][244]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2018.01.15-18.46.20:375][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.003918s)
+[2018.01.15-18.46.20:402][244]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.46.20:422][244]LogInit: FAudioDevice initialized.
+[2018.01.15-18.46.20:457][244]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.46.20:459][244]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.46.20
+[2018.01.15-18.46.20:459][244]LogWorld: Bringing up level for play took: 0.001349
+[2018.01.15-18.46.20:459][244]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.46.20:462][244]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test 0.526
+[2018.01.15-18.46.20:463][244]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.46.36:164][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.46.36:235][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.47.10:928][947]BlueprintLog: New page: Compile VirusSpawnBP
+[2018.01.15-18.47.12:146][970]LogSavePackage: Save=39.67ms
+[2018.01.15-18.47.12:146][970]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/VirusSpawnBP385FC281410B370506FD0C91C594214C.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset'
+[2018.01.15-18.47.12:153][970]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/VirusSpawnBP.uasset
+[2018.01.15-18.47.12:743][  5]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.47.12:771][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.47.12:772][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.47.12:772][  5]PIE: New page: PIE session: Test (Jan 15, 2018, 6:47:12 PM)
+[2018.01.15-18.47.12:772][  5]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.47.12:776][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004032s)
+[2018.01.15-18.47.12:777][  5]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.47.12:777][  5]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2018.01.15-18.47.12:777][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.005343s)
+[2018.01.15-18.47.12:809][  5]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.47.12:825][  5]LogInit: FAudioDevice initialized.
+[2018.01.15-18.47.12:859][  5]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.47.12:860][  5]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.47.12
+[2018.01.15-18.47.12:860][  5]LogWorld: Bringing up level for play took: 0.001359
+[2018.01.15-18.47.12:861][  5]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.47.12:864][  5]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test 0.927
+[2018.01.15-18.47.12:864][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.47.23:075][409]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.47.23:142][409]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.47.24:625][495]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.47.24:646][495]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.47.24:646][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.47.24:646][495]PIE: New page: PIE session: Test (Jan 15, 2018, 6:47:24 PM)
+[2018.01.15-18.47.24:646][495]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.47.24:650][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003310s)
+[2018.01.15-18.47.24:650][495]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.47.24:651][495]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2018.01.15-18.47.24:651][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.004747s)
+[2018.01.15-18.47.24:680][495]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.47.24:695][495]LogInit: FAudioDevice initialized.
+[2018.01.15-18.47.24:732][495]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.47.24:734][495]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.47.24
+[2018.01.15-18.47.24:734][495]LogWorld: Bringing up level for play took: 0.001782
+[2018.01.15-18.47.24:735][495]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.47.24:737][495]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test 0.801
+[2018.01.15-18.47.24:738][495]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.47.32:825][819]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.47.32:903][819]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.47.53:469][ 32]LogSavePackage: Save=176.02ms
+[2018.01.15-18.47.53:469][ 32]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/Test24F1278D4C20C74E815866BF6AA9D3C0.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Levels/Test.umap'
+[2018.01.15-18.47.53:476][ 32]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Levels/Test.umap
+[2018.01.15-18.47.53:552][ 32]LogSavePackage: Save=29.89ms
+[2018.01.15-18.47.53:552][ 32]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/Test_BuiltDataDB951CDE47104A5CDCAD92898A537843.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Levels/Test_BuiltData.uasset'
+[2018.01.15-18.47.53:555][ 32]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Levels/Test_BuiltData.uasset
+[2018.01.15-18.48.44:842][442]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.15-18.48.44:864][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.48.44:864][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.48.44:865][442]PIE: New page: PIE session: Test (Jan 15, 2018, 6:48:44 PM)
+[2018.01.15-18.48.44:865][442]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_Test
+[2018.01.15-18.48.44:868][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002873s)
+[2018.01.15-18.48.44:868][442]LogAIModule: Creating AISystem for world Test
+[2018.01.15-18.48.44:869][442]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2018.01.15-18.48.44:869][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/Test.Test to /Game/Assets/Levels/UEDPIE_0_Test.Test (0.004128s)
+[2018.01.15-18.48.44:899][442]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-18.48.44:913][442]LogInit: FAudioDevice initialized.
+[2018.01.15-18.48.44:952][442]LogLoad: Game class is 'GM_C'
+[2018.01.15-18.48.44:954][442]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.01.15-18.48.44
+[2018.01.15-18.48.44:954][442]LogWorld: Bringing up level for play took: 0.001738
+[2018.01.15-18.48.44:955][442]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.15-18.48.44:959][442]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_Test 1.022
+[2018.01.15-18.48.44:960][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.48.50:215][650]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.48.50:283][650]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Assets/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Assets/Levels/Test.Test:PersistentLevel.Test'
+[2018.01.15-18.50.39:828][180]BlueprintLog: New page: Compile SpawnButton
+[2018.01.15-18.50.40:766][229]LogSavePackage: Save=21.36ms
+[2018.01.15-18.50.40:766][229]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/SpawnButtonB764157A4464BA9365E7DAABD3124E56.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Widgets/SpawnButton.uasset'
+[2018.01.15-18.50.40:773][229]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Widgets/SpawnButton.uasset
+[2018.01.15-18.50.48:837][712]BlueprintLog: New page: Compile PlayerController
+[2018.01.15-18.50.49:637][742]LogSavePackage: Save=32.27ms
+[2018.01.15-18.50.49:637][742]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/PlayerController3EA1665444EBF0D7887269B1079E1215.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset'
+[2018.01.15-18.50.49:643][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Blueprints/PlayerController.uasset
+[2018.01.15-18.50.55:980][107]LogSavePackage: Save=172.68ms
+[2018.01.15-18.50.55:981][107]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/TestCEE11C8D4C00516BE3769EB8BCA9A3CB.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Levels/Test.umap'
+[2018.01.15-18.50.55:987][107]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Levels/Test.umap
+[2018.01.15-18.50.56:071][107]LogSavePackage: Save=29.06ms
+[2018.01.15-18.50.56:071][107]LogSavePackage: Moving '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Saved/Test_BuiltData7DBC9A0249269FA0C931138DD3A9C8CC.tmp' to '../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Levels/Test_BuiltData.uasset'
+[2018.01.15-18.50.56:074][107]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Carolina/Documents/Unreal Projects/UnrealSetupTest/SpawnTesting/Content/Assets/Levels/Test_BuiltData.uasset
+[2018.01.15-18.53.27:572][ 65]LogUObjectBase: Warning: Object is not registered
+[2018.01.15-18.53.27:983][ 65]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.410 s
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: 
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: Stack: 
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: [Callstack] 0x00000000B2912786 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: [Callstack] 0x00000000B26B123A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: [Callstack] 0x00000000B26CB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: [Callstack] 0x000000009C3233F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: [Callstack] 0x000000009A3103AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: [Callstack] 0x0000000099603EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: [Callstack] 0x00000000994974AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: [Callstack] 0x000000009949ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: [Callstack] 0x00000000995C8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: [Callstack] 0x00000000B7C17397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: [Callstack] 0x00000000B7C1CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: [Callstack] 0x00000000B7E59913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: [Callstack] 0x00000000B7C73484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.15-18.53.27:983][ 65]LogOutputDevice: Error: [Callstack] 0x00000000B7C4B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000B7C3D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000CE7DE39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000CE7D1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000CE7E03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000CE7CD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000EDCBB85D USER32.dll!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000EDCBB1EF USER32.dll!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000CE7E1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000FA8B50C8 UE4Editor.exe!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000FA8C5430 UE4Editor.exe!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000FA8C54AA UE4Editor.exe!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000FA8D2379 UE4Editor.exe!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000FA8D3D57 UE4Editor.exe!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000EC831FE4 KERNEL32.DLL!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: [Callstack] 0x00000000EF3BEF91 ntdll.dll!UnknownFunction []
+[2018.01.15-18.53.27:984][ 65]LogOutputDevice: Error: 
+[2018.01.15-18.53.27:991][ 65]LogStats:                SubmitErrorReport -  0.000 s
